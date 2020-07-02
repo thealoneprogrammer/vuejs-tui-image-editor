@@ -1,5 +1,9 @@
 # vuejs-tui-image-editor
 
+## Take a demo below
+
+https://thealoneprogrammer.github.io/vuejs-tui-image-editor/
+
 ## Project setup
 ```
 yarn install
