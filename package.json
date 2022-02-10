@@ -11,7 +11,7 @@
     "@toast-ui/vue-image-editor": "^1.2.0",
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
